@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -8,19 +9,29 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+=======
+*.idea
+*.cfg
+/docs
+>>>>>>> master
 build/
 develop-eggs/
 dist/
 downloads/
 eggs/
 .eggs/
+<<<<<<< HEAD
 lib/
+=======
+Lib/
+>>>>>>> master
 lib64/
 parts/
 sdist/
 var/
 wheels/
 share/python-wheels/
+<<<<<<< HEAD
 *.egg-info/
 .installed.cfg
 *.egg
@@ -169,3 +180,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+Scripts/
+>>>>>>> master
