@@ -1,0 +1,17 @@
+*.idea
+*.cfg
+/docs
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+Lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+Scripts/
