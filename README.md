@@ -24,21 +24,16 @@ I’ve also added a GUI to make things a bit more challenging for myself. The mu
    ```bash
    Enter the directory path:
    (like: f:\Movies)
-   >
+   > F:\Movies
    ```
-   with this format
-   ```bash
-   F:\Movies
-   ```
+   
 **Example output**
-| 16    | Kill Bill Vol 2                            | 2004    | 02:16:57 |
-+-------+--------------------------------------------+---------+----------+
-| 17    | A Taxi Driver                              | 2017    | 02:17:13 |
-+-------+--------------------------------------------+---------+----------+
-| 18    | Decision to Leave                          | 2022    | 02:18:28 |
-+-------+--------------------------------------------+---------+----------+
-| 19    | Catch Me If You Can                        | 2002    | 02:20:43 |
-
+| No. | Movie Title            | Year | Duration  |
+|-----|------------------------|------|-----------|
+| 16  | Kill Bill Vol 2        | 2004 | 02:16:57  |
+| 17  | A Taxi Driver          | 2017 | 02:17:13  |
+| 18  | Decision to Leave      | 2022 | 02:18:28  |
+| 19  | Catch Me If You Can    | 2002 | 02:20:43  |
 
 If you want to add more features, such as a more advanced GUI or extra media file formats, your contributions are more than welcome!
 Thanks for checking out this project, and I hope it helps you with managing your movie and music collection! ;)
